@@ -1,7 +1,7 @@
 {
   "port": "8000",
-  "name": "Recluse Bot",
-  "description": "Recluse is the only Discord bot you'll ever need. It has powerfull latest features which can manage discord server. It contains latest discord features like buttons, forms, menu, etc",
+  "name": "Yeo Bot",
+  "description": "Yeo is the only Discord bot you'll ever need. It has powerfull latest features which can manage discord server. It contains latest discord features like buttons, forms, menu, etc",
   "invite": "https://discord.com/oauth2/authorize?scope=bot+applications.commands&client_id=235148962103951360&permissions=37088600",
   "support": "https://discord.gg/whJeF4mDAX",
   "pfp": "https://cdn.discordapp.com/attachments/1027603800153919600/1028236433439338496/1665221033192.png",
